@@ -14,14 +14,14 @@ const callouts = [
     description: "Access our sales dashboard",
     imageSrc: "https://images.unsplash.com/photo-1591696205602-2f950c417cb9",
     imageAlt: "Sales dashboard",
-    href: "#",
+    href: "/departments/sales",
   },
   {
     name: "Marketing",
     description: "Our company press kit",
     imageSrc: "https://images.unsplash.com/photo-1607703703674-df96af81dffa",
     imageAlt: "Woman writing on white board.",
-    href: "#",
+    href: "/departments/marketing",
   },
 ];
 
